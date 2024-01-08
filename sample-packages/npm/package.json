@@ -1,5 +1,5 @@
 {
-  "name": "exercise-publish-package",
+  "name": "@pachonjcl/exercise-publish-package",
   "version": "1.0.0",
   "description": "Sample npm package",
   "main": "index.js",
