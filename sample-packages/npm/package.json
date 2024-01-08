@@ -12,6 +12,9 @@
     "url": "https://github.com/pachonjcl/exercise-publish-package.git"
   },
   "dependencies": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Jose Laura",
   "license": "MIT"
 }
