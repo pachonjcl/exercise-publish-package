@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/pachonjcl/exercise-publish-package.git"
   },
+  "dependencies": {},
   "author": "Jose Laura",
   "license": "MIT"
 }
