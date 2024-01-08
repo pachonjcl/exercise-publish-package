@@ -1,3 +1,16 @@
 {
-  "your": "json config here"
+  "name": "sample-npm-package",
+  "version": "1.0.0",
+  "description": "Sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pachonjcl/exercise-publish-package.git"
+  },
+  "author": "Jose Laura",
+  "license": "MIT"
 }
